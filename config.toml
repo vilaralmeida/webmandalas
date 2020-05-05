@@ -1,0 +1,4 @@
+theme = "hugo-base16-theme"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Mandalabot1"
